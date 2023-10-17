@@ -1,0 +1,4 @@
+#Tue Oct 17 09:28:08 AST 2023
+base.0=/Users/ali/Development/test/build/app/intermediates/dex/debug/mergeDexDebug/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
